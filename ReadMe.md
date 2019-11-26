@@ -8,6 +8,7 @@ Khởi động Docker container chứa WordPress và MySQL
 $ git clone https://github.com/TechMaster/wordpress_test.git
 $ cd wordpress_test
 $ docker-compose up -d
+```
 
 Chạy kiểm thử
 ```shell
